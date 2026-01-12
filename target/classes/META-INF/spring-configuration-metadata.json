@@ -1,0 +1,80 @@
+{
+  "groups": [
+    {
+      "name": "spring.mail",
+      "type": "com.warranty.warranty.components.MailComponent",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.mail.auth",
+      "type": "java.lang.String",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.delete-usertemplateid",
+      "type": "java.lang.Integer",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.enable",
+      "type": "java.lang.String",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.host",
+      "type": "java.lang.String",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.otp-validity",
+      "type": "java.lang.String",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.otplogintemplateid",
+      "type": "java.lang.Integer",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.password",
+      "type": "java.lang.String",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.subject",
+      "type": "java.lang.String",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.token-expiry",
+      "type": "java.lang.String",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.uploadpath",
+      "type": "java.lang.String",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.username",
+      "type": "java.lang.String",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    },
+    {
+      "name": "spring.mail.version",
+      "type": "java.lang.String",
+      "sourceType": "com.warranty.warranty.components.MailComponent"
+    }
+  ],
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
+}
